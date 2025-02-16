@@ -1,7 +1,7 @@
 # My neofetch
 this is a clean Neofetch that feathers a lot of details! Tested on Arch linux kernel v6 and v4
 
-![My Image](https://cdn.discordapp.com/attachments/1201442344625504298/1324320780858818630/image.png?ex=6777b956&is=677667d6&hm=0f63ee78f4e966c280e81b3064a5f02416b76bd1c5beb0348878ef21921dbc2f&)
+![My Image](https://cdn.discordapp.com/attachments/1323010837983662157/1340760516653617354/image.png?ex=67b38809&is=67b23689&hm=f9ea7dc12ab5a85d4bc9ea6ed4b3e6a12f102fd3f0f94937e11d8c07f988cb81&)
 
 # Feathers
 Custom GPU name
